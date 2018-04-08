@@ -1,0 +1,112 @@
+.fa-2x {
+	font-size: 20px;
+    padding-left: 25px;  
+}
+
+div.fa-1x {
+	width: 16px;
+    height: 16px;
+    background-size: 2000% auto !important;
+}
+
+div.fa-min{
+	width: 14px;
+    height: 16px;
+    background-size: 1600% auto !important;
+}
+
+div.fa-2x {
+	width: 25px;
+    height: 25px;
+    background-size: 1500% auto !important;
+}
+
+div.fa-5x {
+	width: 75px;
+    height: 24px;
+}
+
+.fa-4x {
+	width:10%;
+	height:70px;
+	background-size:1000% auto !important;
+}
+
+.fa-sucursales {
+	background:url(../img/sprite.png) 13% 0 no-repeat;
+}
+
+.fa-compras {
+	background:url(../img/sprite.png) 19.5% 0 no-repeat;
+}
+
+.fa-search {
+	background: url(../img/sprite.png) 1.8% 88% no-repeat;
+}
+
+.fa-adidas {
+	background:url(../img/marcas.png) 3% 0 no-repeat;
+}
+
+.fa-nike {
+	background:url(../img/marcas.png) 13% 0 no-repeat;
+}
+
+.fa-adidas-o {
+	background:url(../img/marcas.png) 23% 0 no-repeat;
+}
+
+.fa-neo {
+	background:url(../img/marcas.png) 35% 0 no-repeat;
+}
+
+.fa-puma {
+	background:url(../img/marcas.png) 46% 0 no-repeat;
+}
+
+.fa-topper {
+	background:url(../img/marcas.png) 58% 0 no-repeat;
+}
+
+.fa-reebok {
+	background:url(../img/marcas.png) 68% 0 no-repeat;
+}
+
+.fa-converse {
+	background:url(../img/marcas.png) 79% 0 no-repeat;
+}
+
+.fa-salomon {
+	background:url(../img/marcas.png) 90% 0 no-repeat;
+}
+
+.fa-disney {
+	background:url(../img/marcas.png) 101% 0 no-repeat;
+}
+
+.fa-down-arrow {
+	background: url(../img/sprite.png) 88% 0 no-repeat;
+}
+
+.fa-left-arrow-o {
+	background: url(../img/sprite.png) 64.5% 0 no-repeat;
+}
+
+.fa-cart {
+	background: url(../img/sprite.png) 26% 0 no-repeat;
+}
+
+.fa-vtex {
+	background: url(../img/sprite.png) 70% 40% no-repeat;
+}
+
+.fa-fizzmod {
+	background: url(../img/sprite.png) 70% 75% no-repeat;
+}
+
+@media only screen and (max-width: 768px) {
+    .fa-4x {
+        width: 20%;
+		height:80px;
+    }
+}

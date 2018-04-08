@@ -1,0 +1,70 @@
+{"productos":[
+                {
+				    "titulo":"Campera rosado",
+					"sexo":["hembra"],
+					"deporte":["small"],
+					"img":"img/productos/campera-rosa.jpg",
+					"color":"rosa",
+					"marca":"doggie",
+					"precio":"20",
+					"tipo":"camperas",
+					"oferta":false
+				},
+				{
+				    "titulo":"Campera Marrón",
+					"sexo":["macho"],
+					"deporte":["medium"],
+					"img":"img/productos/campera-marron.jpg",
+					"color":"marron",
+					"marca":"Denver",
+					"precio":"40",
+					"tipo":"camperas",
+					"oferta":false
+				},
+				{
+				    "titulo":"poncho rosado",
+					"sexo":["macho","hembra"],
+					"deporte":["medium"],
+					"img":"img/productos/poncho-rosa.jpg",
+					"color":"rosa",
+					"marca":"doggie",
+					"precio":"35",
+					"tipo":"ponchos",
+					"oferta":false
+				},
+				{
+				    "titulo":"campera adidas",
+					"sexo":["macho", "hembra"],
+					"deporte":["medium", "small","large"],
+					"img":"img/productos/campera-gris.jpg",
+					"color":"gris",
+					"marca":"adidas",
+					"precio":"50",
+					"tipo":"camperas",
+					"oferta":false
+				},
+				{
+				    "titulo":"campera doble",
+					"sexo":["macho","hembra"],
+					"deporte":["medium", "smal","large"],
+					"img":"img/productos/campera-oscura.jpg",
+					"color":"gris",
+					"marca":"doggie",
+					"precio":"40",
+					"tipo":"camperas",
+					"oferta":true
+				},
+				{
+				    "titulo":"campera noche",
+					"sexo":["macho", "hembra"],
+					"deporte":["medium", "smal"],
+					"img":"img/productos/campera-verde.jpg",
+					"color":"verde",
+					"marca":"denver",
+					"precio":"35",
+					"tipo":"campera",
+					"oferta":false
+				}
+           ]
+	}
+    
